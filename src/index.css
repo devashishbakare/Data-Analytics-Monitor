@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000300;
+}
+
+.custom-placeholder::placeholder {
+  padding-left: 5%;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
