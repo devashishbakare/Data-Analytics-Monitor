@@ -6,7 +6,7 @@ export const AlaCart = () => {
       <div className="h-[60vh] w-[90%] border-2 gap-2 rounded-lg shadow-md sm:w-[70%] md:h-[55vh] md:w-[40%] mt-10 mb-10 md:border-2 lg:h-[60vh] lg:w-[32%]">
         <span className="h-[25%] flex items-center justify-center">
           <img
-            src="https://github.com/fireclint/data-finance-react-tailwind/blob/main/src/assets/single.png?raw=true"
+            src="https://res.cloudinary.com/djgouef8q/image/upload/v1691563145/hh1bzffwytiityocglrt.png"
             alt="single_user_image"
             className="h-[70%] w-[30%] object-contains md:w-[25%]"
           />
@@ -36,7 +36,7 @@ export const AlaCart = () => {
       <div className="h-[60vh] w-[90%] border-2 gap-2 rounded-lg shadow-md sm:w-[70%] md:h-[55vh] md:w-[40%] mt-10 mb-10 md:border-2 lg:h-[60vh] lg:w-[32%]">
         <span className="h-[25%] flex items-center justify-center">
           <img
-            src="https://github.com/fireclint/data-finance-react-tailwind/blob/main/src/assets/double.png?raw=true"
+            src="http://res.cloudinary.com/djgouef8q/image/upload/v1691563229/ymufywkgwmwijj721zox.png"
             alt="double_user_image"
             className="h-[80%] w-[30%] object-contains md:w-[25%]"
           />

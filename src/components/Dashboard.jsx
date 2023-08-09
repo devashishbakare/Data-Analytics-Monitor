@@ -6,9 +6,9 @@ export const Dashboard = () => {
       <div className="h-full w-full flex flex-col items-center justify-center sm:flex-row">
         <span className="h-[50%] w-[90%] flex items-center justify-center border-2 bg-white sm:h-[90%] sm:ml-5 sm:w-[50%]">
           <img
-            src="https://raw.githubusercontent.com/fireclint/data-finance-react-tailwind/main/src/assets/laptop.jpg"
+            src="http://res.cloudinary.com/djgouef8q/image/upload/v1691563257/fy1zmxchy4dsmaz7q2vc.jpg"
             alt="dashboard_image"
-            className="h-full w-[70%] object-cover sm:h-[70%] sm:w-[100%]  md:h-[80%] md:w-[100%] lg:h-[85%] lg:w-[80%]"
+            className="h-[70%] w-[90%] object-cover sm:h-[50%] sm:w-[99%]  md:h-[60%] md:w-[100%] lg:h-[70%] lg:w-[99%] xl:h-[80%] xl:w-[90%]"
           />
         </span>
         <span className="h-[50%] w-full flex flex-col text-center items-center pt-10 gap-3 sm:h-full sm:w-[50%] sm:justify-center sm:gap-5 md:gap-1">
