@@ -13,7 +13,7 @@ export const Feature = () => {
         <span className="text-gray-400 h-[25%] w-full flex items-center justify-center text-center capitalize text-[1.2rem] pl-10 pr-10 md:h-[10%]">
           fast flexible financing for btc for btb, btc & sass platform.
         </span>
-        <button className="h-[15%]  min-w-[150px] bg-[#00df9a] text-black text-[1rem] font-bold p-3 rounded-md border-none outline-none  md:text-[1.2rem] w-[15%]">
+        <button className="h-[12%]  min-w-[150px] bg-[#00df9a] text-black text-[1rem] font-bold rounded-md border-none outline-none  md:text-[1.2rem] w-[15%]">
           Get Started
         </button>
       </div>

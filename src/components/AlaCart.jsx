@@ -3,7 +3,7 @@ import React from "react";
 export const AlaCart = () => {
   return (
     <>
-      <div className="h-[60vh] w-[90%] border-2 gap-2 rounded-lg shadow-md sm:w-[70%] md:h-[55vh] md:w-[40%] mt-10 mb-10 md:border-2 lg:h-[60vh] lg:w-[32%]">
+      <div className="h-[65vh] min-h-[500px] w-[90%] border-2 gap-2 rounded-lg shadow-md sm:w-[70%] md:h-[55vh] md:w-[40%] mt-10 mb-10 md:border-2 lg:h-[60vh] lg:w-[32%]">
         <span className="h-[25%] flex items-center justify-center">
           <img
             src="https://res.cloudinary.com/djgouef8q/image/upload/v1691563145/hh1bzffwytiityocglrt.png"
@@ -33,7 +33,7 @@ export const AlaCart = () => {
         </span>
       </div>
 
-      <div className="h-[60vh] w-[90%] border-2 gap-2 rounded-lg shadow-md sm:w-[70%] md:h-[55vh] md:w-[40%] mt-10 mb-10 md:border-2 lg:h-[60vh] lg:w-[32%]">
+      <div className="h-[60vh] w-[90%] min-h-[500px] border-2 gap-2 rounded-lg shadow-md sm:w-[70%] md:h-[55vh] md:w-[40%] mt-10 mb-10 md:border-2 lg:h-[60vh] lg:w-[32%]">
         <span className="h-[25%] flex items-center justify-center">
           <img
             src="http://res.cloudinary.com/djgouef8q/image/upload/v1691563229/ymufywkgwmwijj721zox.png"
@@ -47,7 +47,7 @@ export const AlaCart = () => {
         <span className="h-[15%] flex items-center justify-center text-4xl font-bold mr-3">
           &#8377;&nbsp;31999
         </span>
-        <span className="h-[10%] flex items-center justify-center text-xl mr-3">
+        <span className="h-[10%] flex items-center justify-center text-xl  mr-3">
           5 TB Storage
         </span>
         <span className="h-[10%] flex items-center justify-center text-xl mr-3">

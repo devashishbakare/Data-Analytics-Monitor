@@ -8,7 +8,7 @@ export const Notify = () => {
           want tips and tricks to optimize your flow?
         </span>
 
-        <span className=" h-[10%] w-[95%] text-[1.3rem] text-white capitalize opacity-50">
+        <span className=" h-[10%] w-[95%] text-[1.1rem] text-white capitalize opacity-50">
           sign up to our newsletter and stay up to date
         </span>
 

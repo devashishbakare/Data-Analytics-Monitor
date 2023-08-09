@@ -16,7 +16,7 @@ export const Contact = () => {
             {" "}
             MONITOR.
           </span>
-          <span className="h-[55%] w-full  text-gray-400 text-[1.2rem] md:h-[30%] lg:h-[55%]">
+          <span className="h-[55%] w-full  text-gray-400 text-[1rem] md:h-[30%] lg:h-[55%]">
             {" "}
             Contact us on different platoform to get started with intuitive
             analytics dashboard. Visualize trends and make informed decisions
